@@ -4,3 +4,12 @@ node_modules/
 .playwright-mcp/
 qa_*.png
 qa_*.jpg
+
+# Local QA screenshots / scratch files
+*.png
+qa_framework/
+qa_tech_ppt/
+build_*.js
+build_*.py
+*.bak-*
+* 2.zip
